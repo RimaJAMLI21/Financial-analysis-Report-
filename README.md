@@ -26,8 +26,7 @@ Report Filters
 
 # PowerBi Dashboard
 
-
-https://app.powerbi.com/groups/me/reports/ede84754-62cb-4dee-ad79-334f99a12ba1?ctid=dbd6664d-4eb9-46eb-99d8-5c43ba153c61&pbi_source=linkShare&bookmarkGuid=a66b25df-f63b-47ef-a80e-d310f6c085a9
+https://app.powerbi.com/view?r=eyJrIjoiY2Q3MDI3ZTQtNDEzMy00OWI3LTliYTYtYWYzZGQwNDRhNmMzIiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9
 
 ![](https://github.com/RimaJAMLI21/Financial-analysis-Report-/blob/main/finanrep.PNG))
 
